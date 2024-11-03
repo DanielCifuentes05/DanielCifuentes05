@@ -1,3 +1,7 @@
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=DanielCifuentes05&label=Profile%20views&color=0047AB&style=plastic?" alt="DanielCifuentes05" height=20px, width=80px/> 
+</p>
+
 ## Hi there, I'm Daniel Cifuentes Estupiñan👋
 
 ### 👨🏻‍💻 &nbsp;About Me
