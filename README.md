@@ -5,9 +5,11 @@
 👨‍💻 &nbsp;I am Currently Working as Java Backend Developer with more than 3 years of experience.\
 💡 &nbsp;I like to learn new technologies and software development practices to implement in my solutions.\
 🌱 &nbsp;I plan to improve my English level.\
-✍️ &nbsp;I divide my free time into going to the gym, learning a little more and spending time with my family and friends.\
+✍️ &nbsp;I divide my free time into going to the gym, learning a little more and spending time with my family and friends.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<!-- CONTACTO -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,34 +44,32 @@
 ![Apache Netbeans](https://img.shields.io/badge/netbeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
+![Mysql Workbench](https://img.shields.io/badge/MySql_WorkBench-90c5dc?style=for-the-badge&logo=workbench&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+![Dbeaver](https://img.shields.io/badge/Dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
+![Webex](https://img.shields.io/badge/webex-000000.svg?style=for-the-badge&logo=webex&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/DanielCifuentes05">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielCifuentes05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/DanielCifuentes05">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielCifuentes05&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
-<!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
-<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
-<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-cifuentes-estupinan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel cifuentes estupiñan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dcifuentes05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dcifuentes05" height="30" width="40" /></a>
 </p>
 
